@@ -1,1 +1,1 @@
-Aplicativo Wiki falando sobre 6 personagens
+Aplicativo Wiki contando os hobbys, características e essência de seis personagens.
